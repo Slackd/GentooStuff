@@ -1,0 +1,5 @@
+>=app-emulation/virtualbox-4.3 ~amd64
+>=app-emulation/virtualbox-extpack-oracle-4.3 ~amd64
+>=app-emulation/virtualbox-modules-4.3 ~amd64
+>=app-emulation/virtualbox-additions-4.3 ~amd64
+

@@ -1,0 +1,14 @@
+net-irc/weechat lua
+dev-libs/keybinder lua
+media-video/rtmpdump gnutls
+x11-themes/gtk-engines lua
+x11-libs/libva egl
+gnome-base/gnome-vfs gnutls
+media-libs/libsdl libcaca
+media-libs/libcanberra gstreamer
+virtual/ffmpeg vaapi theora speex
+media-plugins/audacious-plugins ffmpeg lame libsamplerate wavpack sndfile midi scrobbler fluidsynth cue 
+media-plugins/gst-plugins-meta http libass libvisual mms taglib vcd vpx wavpack lame
+media-libs/opencv gstreamer
+net-nds/openldap gnutls
+sys-block/gparted ntfs btrfs fat hfs reiserfs reiser4 xfs jfs

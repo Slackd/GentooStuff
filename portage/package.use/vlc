@@ -1,0 +1,2 @@
+>=sys-libs/zlib-1.2.8-r1 minizip
+media-video/vlc taglib xv faad directfb dirac dvb egl fluidsynth fontconfig freetype bidi jpeg gnutls libass libcaca libsamplerate lua mtp musepack opencv schroedinger sdl-image speex twolame upnp vaapi vdpau cdda cddb dts dxva2 vcd cdio live aac dts a52 ogg flac theora matroska oggvorbis svga x265 gnutls stream vlm httpd dxva2 rdp vcdx rtsp samba

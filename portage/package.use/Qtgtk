@@ -1,0 +1,2 @@
+dev-qt/qtgui gtkstyle
+x11-libs/cairo -qt4
