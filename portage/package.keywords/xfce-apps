@@ -1,2 +1,2 @@
->=xfce-base/thunar-1.6 ~amd64
->=app-editors/mousepad-0.4 ~amd64
+xfce-base/thunar ~amd64
+app-editors/mousepad ~amd64

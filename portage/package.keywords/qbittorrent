@@ -1,4 +1,4 @@
->=net-p2p/qbittorrent-3.2 ~amd64
+net-p2p/qbittorrent ~amd64
 >=dev-qt/qtsingleapplication-2.6.1_p20130904-r4 ~amd64
 >=net-libs/rb_libtorrent-1.0.5 ~amd64
 >=dev-qt/qtlockedfile-2.4.1_p20130904-r2 ~amd64
